@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>apijson-iotdb</name>
-	<description>A IoTDB plugin for Tencent APIJSON</description>
+	<description>An IoTDB plugin for Tencent APIJSON</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
