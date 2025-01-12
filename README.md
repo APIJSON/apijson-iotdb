@@ -2,7 +2,7 @@
 腾讯 [APIJSON](https://github.com/Tencent/APIJSON) 7.0.3+ 的 IoTDB 数据库插件，可通过 Maven, Gradle 等远程依赖。<br />
 An IoTDB plugin for Tencent [APIJSON](https://github.com/Tencent/APIJSON) 7.0.3+
 
-![image](https://private-user-images.githubusercontent.com/5738175/397984593-6d088d9c-86d9-40a9-b9fa-b49c679e19a6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4NzQ5NzQsIm5iZiI6MTczNDg3NDY3NCwicGF0aCI6Ii81NzM4MTc1LzM5Nzk4NDU5My02ZDA4OGQ5Yy04NmQ5LTQwYTktYjlmYS1iNDljNjc5ZTE5YTYucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTIyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEyMjJUMTMzNzU0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OWM2OTBmYmM4MmRiYzIwNjg4ZDAzZDkxYjkwMjE4ZDM4NWY1NDFkYTFjNTMyMWQ0MzFlMzkxODhlNDIxNDYyMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.POonQKkSUjGuF1fRF4vbT61mI1wKGmamLTL5Ld7GmxA)
+![image](https://github.com/user-attachments/assets/c12a6170-e78f-40d3-8e3c-30f8a36bb1a5)
 ![image](https://github.com/user-attachments/assets/920dd1ea-5490-4c1e-8132-7e1f6324f156)
 ![image](https://github.com/user-attachments/assets/4b65704d-67ee-403b-a1b6-cf1c16e761e0)
 
